@@ -44,6 +44,7 @@
             <p>Esta es la una Pagina de Prueba</p>
             <br>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum et nemo distinctio officia obcaecati quia ratione cum veniam iure eveniet optio tempore rerum temporibus dignissimos dolores dolor fugit, nisi repellat.</p>
+            <a href="https://vrlps.co/ovrky8v/cp">Register Now</a>
         </section>
     </body>
 </html>
