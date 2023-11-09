@@ -45,6 +45,8 @@
             <br>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum et nemo distinctio officia obcaecati quia ratione cum veniam iure eveniet optio tempore rerum temporibus dignissimos dolores dolor fugit, nisi repellat.</p>
             <a href="https://vrlps.co/ovrky8v/cp">Register Now</a>
+            <br>
+            <a href="https://phplaravel-1161658-4051576.cloudwaysapps.com/">Mi Sitio Web</a>
         </section>
     </body>
 </html>
